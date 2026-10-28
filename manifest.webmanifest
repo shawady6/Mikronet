@@ -1,0 +1,20 @@
+{
+  "name": "MikroTik Cards Manager",
+  "short_name": "NetCards",
+  "description": "إنشاء وطباعة كروت MikroTik Hotspot",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#102a43",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
